@@ -1,0 +1,45 @@
+# Candidate office-life one-liners for make.fun bounty
+# u-alfasurya91-make-the-ai-judge-laugh-6ed40225
+# Rules: office life only, one line, 1-159 chars, deadpan understatement,
+# exactly one twist, concrete number or admin detail, no AGENTS.md / database /
+# deleted-database plots (that template is saturated from ai-joke-03).
+# Research: winners are everyday scene + one deadpan absurd turn + no explanation.
+
+1. [102 chars] We spent $12,000 on a consultant whose 90-slide deck concluded that we should talk to each other more.
+   Mechanism: specific money + slide count + escalation to a banal payoff; deadpan understatement.
+   >>> PICKED: strongest combo — two concrete numbers, one twist, fresh angle, reads cleanly aloud.
+
+2. [103 chars] I asked for a raise and got a pizza party, a shout-out in the all-hands, and 12% more responsibilities.
+   Mechanism: escalation in threes + concrete 12%; the reward is replaced by more work.
+   Runner-up: very true-to-office, but "pizza party instead of a raise" is a well-worn trope.
+
+3. [128 chars] Our 15-minute quick sync has a 47-slide agenda, a pre-read, and a parking lot for the questions the sync was supposed to answer.
+   Mechanism: specific numbers + recursion; the meeting defeats its own purpose.
+   Runner-up: strong recursion, but slightly long and the twist lands in the middle, not the end.
+
+4. [117 chars] The new coffee machine needs a login, a firmware update, and a 40-minute onboarding video before it will make coffee.
+   Mechanism: escalation in threes + specific time; admin friction on a trivial need.
+
+5. [88 chars] IT closed my ticket as resolved because the printer worked once, for them, on a Tuesday.
+   Mechanism: deadpan specificity; one lucky data point becomes the verdict.
+
+6. [103 chars] I submitted my expenses on time for once, and finance replied that the form I used was retired in 2019.
+   Mechanism: specific year + deadpan; being correct is punished by bureaucracy.
+
+7. [121 chars] HR announced a new open-door policy, then moved the manager behind a door that needs a badge, a code, and an appointment.
+   Mechanism: escalation in threes; the policy defeats itself.
+
+8. [96 chars] Facilities fixed the broken elevator button with a laminated sign that says please press firmly.
+   Mechanism: deadpan; a sign replaces a repair.
+
+9. [104 chars] The wifi password changes every Monday, and the only person who knows it is on vacation until Wednesday.
+   Mechanism: specific days + timing trap; the system locks everyone out by design.
+
+10. [98 chars] My performance review said I exceed expectations in a role that was eliminated the following week.
+    Mechanism: deadpan timing twist; praise and redundancy in one breath.
+
+11. [116 chars] My boss scheduled a meeting about why we have too many meetings, then booked a follow-up to review its action items.
+    Mechanism: recursion; the cure is the disease. (Rejected: "meeting about meetings" is a stock line.)
+
+12. [107 chars] The team offsite cost $8,400, and the only thing we agreed on was that we should have done this over email.
+    Mechanism: specific money + deadpan payoff; expensive non-decision.
